@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481741927976",
+    "firebase_url": "https://train-1492231846684.firebaseio.com",
+    "project_id": "train-1492231846684",
+    "storage_bucket": "train-1492231846684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481741927976:android:a2c0bfae67d21595",
+        "android_client_info": {
+          "package_name": "com.example.vijay.train"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481741927976-cgspdclt665pr734iprebd17ufdj79rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFlAbhzZk9spIUVA6FfmQ58rFU2egrflE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

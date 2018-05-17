@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CSM</string>
+
+    <string-array name="titles">
+        <item>Coimbatore</item>
+        <item>Salem</item>
+        <item>Madurai</item>
+        <item>Help desk</item>
+        <item>Book a ticket</item>
+        <item>Transport</item>
+    </string-array>
+    <string-array name="description">
+        <item>place</item>
+        <item>place</item>
+        <item>place</item>
+        <item>complain</item>
+        <item>vehicle</item>
+        <item>vehicle</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps1">Map</string>
+
+</resources>
